@@ -1,4 +1,4 @@
-- 👋 Hi, Gustavo Bastian, a curious person who has a  electronic engineering degree, some studies on embedded system design and at last, some courses on IoT related technologies.
+- 👋 Hi, Gustavo Bastian, a curious person who has a  electronic engineering degree, a postgraduate courses on embedded system design(IUA) and IoT(UBA).
 - 👀 I’m interested in Machine Learning, mobile development, VR and web technologies.
 - 🌱 I’m currently finishing the Internet of Things specialization in UBA.
 - 💞️ I’m looking to collaborate on what the world needs
