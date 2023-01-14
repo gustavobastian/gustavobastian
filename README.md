@@ -1,6 +1,6 @@
-- 👋 Hi, Gustavo Bastian, a curious person who has a  electronic engineering degree, a postgraduate courses on embedded system design(IUA) and IoT(UBA).
+- 👋 Hi, I’m Gustavo Bastian, an  electronic engineering with postgraduate courses on embedded system design(IUA) and IoT(UBA).
 - 👀 I’m interested in Machine Learning, mobile development, VR and web technologies.
-- 🌱 I’m currently finishing the Internet of Things specialization in UBA.
+- 🌱 I’m currently starting some open source projects.
 - 💞️ I’m looking to collaborate on what the world needs
 - 📫 The best way to contact me is through an email: bastian.gustavo@gmail.com
 
