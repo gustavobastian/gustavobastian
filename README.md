@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Gustavo Bastian, an  electronic engineer with postgraduate courses on embedded system design(IUA) and IoT(UBA).
-- 👀 I’m interested in Machine Learning, mobile development, VR and web technologies.
-- 🌱 I’m currently starting some open source projects.
-- 💞️ I’m looking to collaborate on what the world needs.
-- 📫 The best way to contact me is through an email: bastian.gustavo@gmail.com
+# Gustavo Bastian
+IoT Engineer, Embedded Specialist, Electronic designer, with experienced in mobile dev, web dev, system dev and electronic design. I hold two posgraduate courses: Internet of Things(UBA 2022) and Embedded Systems Design (IUA 2013).
+Welcome to my Github portfolio, where you will find some of the projects I've worked on and the technologies I've used.
+* 📫 The best way to contact me is through an email: bastian.gustavo@gmail.com
+* 🌱 I’m currently learning artificial intelligence.
+* 👀 I’m interested in Machine Learning, mobile development, VR and web technologies.
 
-<!---
-gustavobastian/gustavobastian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
