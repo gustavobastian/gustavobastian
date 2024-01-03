@@ -6,4 +6,4 @@ Welcome to my Github portfolio, where you will find some of the projects I've wo
 * 👀 I’m interested in Machine Learning, mobile development, VR and web technologies.
 
 
-![snake gif]([https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif](https://github.com/gustavobastian/gustavobastian/blob/output/github-contribution-grid-snake.gif)https://github.com/gustavobastian/gustavobastian/blob/output/github-contribution-grid-snake.gif)
+![snake gif]([https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif](https://github.com/gustavobastian/gustavobastian/blob/output/github-contribution-grid-snake.gif)
