@@ -3,4 +3,4 @@ IoT Engineer, Embedded Specialist, Electronic designer, with experienced in mobi
 Welcome to my Github portfolio, where you will find some of the projects I've worked on and the technologies I've used.
 * 📫 The best way to contact me is through an email: bastian.gustavo@gmail.com
 * 🌱 I’m currently learning artificial intelligence.
-* 👀 I’m interested in Machine Learning, mobile development, VR and web technologies.
+* 👀 I’m interested in Machine Learning, mobile development, VR and embedded systems.
