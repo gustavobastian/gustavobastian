@@ -5,4 +5,4 @@ Welcome to my Github portfolio, where you will find some of the projects I've wo
 * 🌱 I’m currently learning artificial intelligence.
 * 👀 I’m interested in Machine Learning, mobile development, VR and embedded systems.
 
-![alt](image https://github-readme-stats.vercel.app/api?username=gustavobastian&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![alt](https://github-readme-stats.vercel.app/api?username=gustavobastian&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
