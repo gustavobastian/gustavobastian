@@ -13,9 +13,7 @@
 <!--Contact/interest -->
 * 🌱 I’m currently working on embedded systems.
 * 👀 Looking for new ideas.
- <!--Stats -->
-<p> <align="left"> <img src="https://komarev.com/ghpvc/?username=gustavobastian&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+ 
   
 ## 🧰 Skills/tools:
 
@@ -36,6 +34,10 @@
 
 ## 📫 Contact
 [bastian.gustavo@gmail.com](mailto:bastian.gustavo@gmail.com?)
+<!--Stats -->
 ## 📈 Stats:
+<p> <align="left"> <img src="https://komarev.com/ghpvc/?username=gustavobastian&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+ 
 ![alt](https://github-readme-stats.vercel.app/api?username=gustavobastian&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobastian&layout=donut&theme=tokyonight)](https://github.com/gustavobastian/github-readme-stats)
 
