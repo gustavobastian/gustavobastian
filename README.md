@@ -22,13 +22,13 @@
      - basic javascript/python/Typescript
      - Testing frameworks: googleTest, Jest, Postman and Selenium.
   * Electronics:
-     - Eda Tools: Kicad (latest), Altium(old days)
-     - Processors: Raspberry pi's, Imx6 Soms, Am3358 Soms (similar to Beaglebone), Amlogic and Samsung
+     - Eda Tools: Kicad (latest), Altium(old days).
+     - Processors: Raspberry pi's, Imx6 Soms, Am3358 Soms (similar to Beaglebone), Amlogic and Samsung.
      - Microcontrollers: stm32F407, stm32f103, esp32, msp430.
   *  General tools:
-     - Git
-     - Management: Drawio, GanttProject, Libreoffice
-     - Art: Gimp
+     - Git.
+     - Management: Drawio, GanttProject, Libreoffice.
+     - Art: Gimp.
          
 
 
