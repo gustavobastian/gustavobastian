@@ -43,3 +43,6 @@
  
 ![alt](https://github-readme-stats.vercel.app/api?username=gustavobastian&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobastian&layout=donut&theme=tokyonight)](https://github.com/gustavobastian/github-readme-stats)
 
+<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=gustavobastian&theme=radical"/>
+<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=gustavobastian&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+
