@@ -18,7 +18,7 @@
 ## 🧰 Skills/tools:
 
   * Programming:
-     - Intermediate C/C++ 
+     - C/C++ 
      - basic javascript/python/Typescript
      - Testing frameworks: googleTest, Jest, Postman and Selenium.
   * Electronics:
