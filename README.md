@@ -20,15 +20,16 @@
   * Programming:
      - C/C++ 
      - basic javascript/python/Typescript
-     - Testing frameworks: googleTest, Jest, Postman and Selenium.
+     - Testing frameworks: googleTest, Jest, Postman and Selenium
   * Electronics:
-     - Eda Tools: Kicad (latest), Altium(old days).
-     - Processors: Raspberry pi's, Imx6 Soms, Am3358 Soms (similar to Beaglebone), Amlogic and Samsung.
-     - Microcontrollers: stm32F407, stm32f103, esp32, msp430.
+     - Eda Tools: Kicad (latest), Altium(old days)
+     - Processors: Raspberry pi's, Imx6 Soms, Am3358 Soms (similar to Beaglebone), Amlogic and Samsung
+     - Microcontrollers: stm32F407, stm32f103, esp32, msp430
   *  General tools:
-     - Git.
-     - Management: Drawio, GanttProject, Libreoffice.
-     - Art: Gimp.
+     - Git
+     - Management: Drawio, GanttProject, Libreoffice
+     - Art: Gimp
+     - Text: Latex, OpenOffice
          
 <a href="https://buymeacoffee.com/bastiangusb" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
