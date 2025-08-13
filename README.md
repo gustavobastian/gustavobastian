@@ -20,9 +20,9 @@
   * Programming:
      - C/C++
      - CMake
-     - basic javascript/python/Typescript
-     - Testing frameworks: googleTest, Jest, Postman and Selenium
-     - CI/CD: Github Actions
+     - basic Javascript/Python/Typescript
+     - Testing frameworks: GoogleTest, Jest, Postman and Selenium
+     - CI/CD: GitHub Actions
   * Electronics:
      - Eda Tools: Kicad (latest), Altium(old days)
      - Processors: Raspberry pi's, Imx6 Soms, Am3358 Soms (similar to Beaglebone), Amlogic, Samsung and Jetson Nano
