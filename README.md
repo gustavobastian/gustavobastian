@@ -5,7 +5,10 @@
 
  <!--Description -->
 ## About me
-<p>I am an Engineer, with industrial and academic experience. </p>
+
+<!--[![committers.top badge](https://user-badge.committers.top/argentina/gustavobastian.svg)](https://user-badge.committers.top/argentina/gustavobastian)-->
+
+<p>I am an Electronic Engineer, with industrial and academic experience. </p>
 🎓 I hold two posgraduate courses: Internet of Things(UBA 2022) and Embedded Systems Design (IUA 2013).
 
 👷‍♂️ During my career, I worked in multiple fields (SDR, baremetal embedded, Linux embedded, mobile, web, electronics). 
